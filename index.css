@@ -1,1 +1,85 @@
-index
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 250px;
+    border: 5px solid black;
+    border-radius: 20px;
+    height: 100%
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #C6C6C6;
+    padding: 5px 0px
+}
+nav {
+   display: flex;
+   padding-top: 20px;
+    padding-left: 10px
+}
+h2{
+    margin-top: 7px;
+    font-size: 15px
+}
+ p {
+     margin-top: -10px;
+     font-size: 10px  
+ }
+section {
+      padding-left: 8px
+}
+
+.oldgram {
+    width: 80px;
+    height: 40px;
+    border-radius: 80px;
+    margin-left: 10px  
+}
+.add,
+.nav-img {
+     width: 40px;
+    height: 40px;
+    border-radius: 80px;
+    margin-right: 10px    
+}
+
+.main-img{
+    width: 100%
+}
+.icons {
+    height: 22px;
+    width: 23px;
+}
+section p {
+    margin-top: 5px;
+    font-weight: bolder;
+    font-size: 12px
+}
+}
+h3 {
+    margin-top: -5px;
+   font-family: Source Sans Pro;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 2px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    margin-bottom: 0px
+}
+time {
+    font-weight: bolder;
+    font-size: 13px;
+}
+span {
+    font-size: 10px;
+    color: grey ;
+    font-weight: normal
+    
+   
+}
+
